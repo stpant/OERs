@@ -2,6 +2,8 @@
 
 Το αποθετήριο περιλαμβάνει **6 links** σε διαδραστικά αντικείμενα
 
+Υπάρχει για αυτά άδεια Χρήσης -> https://github.com/stpant/OERs/blob/main/LICENSE
+
 5 από τα αντικείμενα βρίσκονται στην πλατφόρμα WordWall και είναι μικρές εφαρμογές που ανήκουν στην κατηγορία drill & practice.
 
 1. https://wordwall.net/el/resource/66121805
